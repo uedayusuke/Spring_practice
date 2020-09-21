@@ -11,7 +11,8 @@
 	<!-- htmlのタグ出ないためデザインを崩さない -->
 	
 	<!-- 下記のformは"@{output}"で/outputへの遷移を指示 -->
-	<form action="output.html" th:action="@{output}">
+	<!-- "method="POST"を追記することでURLにパラメータ(入力した社員番号)を渡さないようにできる→POST送信/DoPost -->
+	<form method="POST" action="output.html" th:action="@{output}">
 		<p>社員Noを入れてください(3桁の半角数字)</p>
 		<!-- <input>でパラメータを指示→name="number" -->
 		<!-- controllerで宣言 -->
