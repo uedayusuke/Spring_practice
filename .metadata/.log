@@ -2913,3 +2913,87 @@ Binding(COMMAND+SHIFT+C,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:00.656
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:00.662
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:00.662
+!MESSAGE buffering callback sts4.classpath.ONUUvLJG NoDI false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:00.662
+!MESSAGE executing callback sts4.classpath.ONUUvLJG 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:02.090
+!MESSAGE executing callback sts4.classpath.ONUUvLJG SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:02.091
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:02.093
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:02.094
+!MESSAGE buffering callback sts4.classpath.ONUUvLJG NoDI false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:02.094
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:02.096
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:02.097
+!MESSAGE buffering callback sts4.classpath.ONUUvLJG NoDI false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:02.098
+!MESSAGE executing callback sts4.classpath.ONUUvLJG 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:02.117
+!MESSAGE executing callback sts4.classpath.ONUUvLJG SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:53.240
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:53.242
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:53.244
+!MESSAGE buffering callback sts4.classpath.ONUUvLJG NoDI false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:53.245
+!MESSAGE executing callback sts4.classpath.ONUUvLJG 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:50:53.296
+!MESSAGE executing callback sts4.classpath.ONUUvLJG SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:56:11.275
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:56:11.277
+!MESSAGE classpath=70 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:56:11.279
+!MESSAGE buffering callback sts4.classpath.ONUUvLJG NoDI false 70
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:56:11.279
+!MESSAGE executing callback sts4.classpath.ONUUvLJG 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:56:11.296
+!MESSAGE executing callback sts4.classpath.ONUUvLJG SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:56:22.502
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:56:22.505
+!MESSAGE classpath=70 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:56:22.507
+!MESSAGE buffering callback sts4.classpath.ONUUvLJG NoDI false 70
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:56:22.508
+!MESSAGE executing callback sts4.classpath.ONUUvLJG 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:56:22.517
+!MESSAGE executing callback sts4.classpath.ONUUvLJG SUCCESS [終了しました]
