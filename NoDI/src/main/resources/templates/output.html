@@ -13,6 +13,8 @@
 		社員No：<span th:text="${number}">100</span>
 	</p>
 	<p>
+		<!-- thymeleafのプログラミンが反映されない時は"ダミー太郎"が出力 -->
+		<!-- thymeleafが反映された時は${name}を出力←controllerで宣言 -->
 		社員名：<span th:text="${name}">ダミー太郎</span>
 	</p>
 	
