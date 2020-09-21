@@ -9,8 +9,12 @@
 	<h1>NoDIパターン</h1>
 	<!-- "th"タグもthymleaf -->
 	<!-- htmlのタグ出ないためデザインを崩さない -->
+	
+	<!-- 下記のformは"@{output}"で/outputへの遷移を指示 -->
 	<form action="output.html" th:action="@{output}">
 		<p>社員Noを入れてください(3桁の半角数字)</p>
+		<!-- <input>でパラメータを指示→name="number" -->
+		<!-- controllerで宣言 -->
 		<input type="text" name="number"> <input type="submit"
 			value="送信">
 	</form>
