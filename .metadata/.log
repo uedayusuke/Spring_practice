@@ -2838,3 +2838,78 @@ java.lang.Exception
 
 !ENTRY org.eclipse.wst.html.ui 1 1 2020-09-21 18:02:04.926
 !MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:48.483
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:48.485
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@19984625[org.springframework.tooling.boot.ls:1.22.0.202009151440(id=668)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:48.487
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:48.521
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:50.428
+!MESSAGE Boot LS startup time from start to initialized: 1936ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:50.455
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ONUUvLJGisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:50.456
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:50.457
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:50.458
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:50.459
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:50.460
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:50.460
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:50.460
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ONUUvLJG => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:50.481
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:50.482
+!MESSAGE buffering callback sts4.classpath.ONUUvLJG demo false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:50.483
+!MESSAGE executing callback sts4.classpath.ONUUvLJG 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-21 18:08:50.507
+!MESSAGE executing callback sts4.classpath.ONUUvLJG SUCCESS [終了しました]
+
+!ENTRY org.eclipse.ui 2 2 2020-09-21 18:09:03.726
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.jface 2 0 2020-09-21 18:10:38.749
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-09-21 18:10:38.749
+!MESSAGE COMMAND+SHIFT+C の競合が発生しました:
+Binding(COMMAND+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,行コメントの切り替え,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6e92e40a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(COMMAND+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,コメントの切り替え,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5ba540a5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
