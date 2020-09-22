@@ -760,3 +760,25 @@ java.io.IOException: Invalid argument
 2020-09-22 20:33:24,766 [Worker-234: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-09-22 20:33:24,768 [Worker-234: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-22 20:33:24,769 [Worker-234: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/uedayuusuke/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/NoDI/src/test/resources
+2020-09-22 20:34:47,370 [Worker-244: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-22 20:34:47,370 [Worker-244: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-22 20:34:47,370 [Worker-244: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-22 20:34:47,372 [Worker-244: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-22 20:34:47,372 [Worker-244: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/uedayuusuke/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/NoDI/src/test/resources
+2020-09-22 20:36:05,088 [Worker-238: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-22 20:36:05,088 [Worker-238: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-22 20:36:05,089 [Worker-238: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-22 20:36:05,090 [Worker-238: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-22 20:36:05,090 [Worker-238: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/uedayuusuke/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/NoDI/src/test/resources
+2020-09-22 20:36:34,155 [Worker-243: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-22 20:36:34,349 [Worker-243: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:NoDI:0.0.1-SNAPSHOT @ /Users/uedayuusuke/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/NoDI/pom.xml.
+2020-09-22 20:36:34,529 [Worker-243: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NoDI/src/main/java
+2020-09-22 20:36:34,529 [Worker-243: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NoDI/src/main/resources
+2020-09-22 20:36:34,529 [Worker-243: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /NoDI/src/main/resources
+2020-09-22 20:36:34,529 [Worker-243: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NoDI/src/test/java
+2020-09-22 20:36:34,706 [Worker-243: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-09-22 20:36:35,020 [Worker-249: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-22 20:36:35,020 [Worker-249: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-22 20:36:35,021 [Worker-249: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-09-22 20:36:35,023 [Worker-249: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-22 20:36:35,023 [Worker-249: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/uedayuusuke/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/NoDI/src/test/resources
