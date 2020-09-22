@@ -39,5 +39,6 @@ public class ShainController {
 		model.addAttribute("name", name);
 		return "output.html";
 	}
+	
 
 }

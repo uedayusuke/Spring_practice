@@ -11,8 +11,7 @@
 	<!-- 下記のformは"@{output}"で/outputへの遷移を指示 -->
 	<!-- "method="POST"を追記することでURLにパラメータ(入力した社員番号)を渡さないようにできる→POST送信/DoPost -->
 	<!-- th:objectで"${shainForm}"を呼び出す -->
-	<form method="POST" action="output.html" th:action="@{output}"
-		th:object="${shainForm}">
+	<form method="POST" action="output.html" th:action="@{output}" th:object="${shainForm}">
 		<p>社員Noを入れてください(3桁の半角数字)</p>
 		<!-- <input>でパラメータを指示→name="number" -->
 		<!-- controllerで宣言 -->
