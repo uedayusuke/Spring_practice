@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<!-- 下記で"thymleaf"を宣言 -->
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
 <meta charset="UTF-8">
@@ -9,15 +7,20 @@
 	<h1>NoDIパターン</h1>
 	<!-- "th"タグもthymleaf -->
 	<!-- htmlのタグ出ないためデザインを崩さない -->
-	
+
 	<!-- 下記のformは"@{output}"で/outputへの遷移を指示 -->
 	<!-- "method="POST"を追記することでURLにパラメータ(入力した社員番号)を渡さないようにできる→POST送信/DoPost -->
-	<form method="POST" action="output.html" th:action="@{output}">
+	<!-- th:objectで"${shainForm}"を呼び出す -->
+	<form method="POST" action="output.html" th:action="@{output}"
+		th:object="${shainForm}">
 		<p>社員Noを入れてください(3桁の半角数字)</p>
 		<!-- <input>でパラメータを指示→name="number" -->
 		<!-- controllerで宣言 -->
-		<input type="text" name="number"> <input type="submit"
-			value="送信">
+		<input type="text" name="number" th:field="${shainForm.number}">
+		<!-- プログラム上では表示されない。→ShainControllerのmessageが表示される -->
+		<p style="color: red;" th:errors="${shainForm.number}" class="error">社員Noを入れてください
+		</p>
+		<input type="submit" value="送信">
 	</form>
 </body>
 </html>
