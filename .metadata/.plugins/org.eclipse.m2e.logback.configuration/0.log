@@ -310,3 +310,13 @@
 2020-09-21 19:39:57,547 [Worker-88: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-09-21 19:39:57,549 [Worker-88: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-21 19:39:57,549 [Worker-88: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/uedayuusuke/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/NoDI/src/test/resources
+2020-09-22 18:23:23,917 [Worker-112: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-22 18:23:23,917 [Worker-112: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-22 18:23:23,918 [Worker-112: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-09-22 18:23:23,919 [Worker-112: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-22 18:23:23,920 [Worker-112: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/uedayuusuke/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/NoDI/src/test/resources
+2020-09-22 18:23:49,714 [Worker-107: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-22 18:23:49,714 [Worker-107: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-22 18:23:49,715 [Worker-107: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-09-22 18:23:49,716 [Worker-107: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-22 18:23:49,716 [Worker-107: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/uedayuusuke/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/NoDI/src/test/resources
