@@ -4,7 +4,7 @@ import javax.validation.constraints.NotNull;
 
 public class ShainForm {
 
-	// "@NotEmpty"で空出ないかをチェックする。
+	// "@NotEmpty"で空ではないかをチェックする。
 	// →もし空だったらmessageを表示
 	@NotNull(message = " 社員Noを入れてください")
 	// index.htmlの"number(引数)"を定義
