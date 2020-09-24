@@ -1,12 +1,12 @@
 package com.example.demo;
 
-import javax.validation.constraints.NotNull;
+import javax.validation.constraints.NotEmpty;
 
 public class ShainForm {
 
 	// "@NotEmpty"で空ではないかをチェックする。
 	// →もし空だったらmessageを表示
-	@NotNull(message = " 社員Noを入れてください")
+	@NotEmpty(message = " 社員Noを入れてください")
 	// index.htmlの"number(引数)"を定義
 	private String number;
 
