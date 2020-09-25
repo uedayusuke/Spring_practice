@@ -5449,3 +5449,6 @@ java.lang.Exception
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:03:39.723
 !MESSAGE executing callback sts4.classpath.BtRAuBhx SUCCESS [終了しました]
+
+!ENTRY org.eclipse.ui 2 2 2020-09-25 14:45:52.013
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
