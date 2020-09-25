@@ -5509,3 +5509,69 @@ java.lang.Exception
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:52.643
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.BtRAuBhx => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:25.267
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:25.268
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@29aa29f5[org.springframework.tooling.boot.ls:1.22.0.202009151440(id=668)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:25.268
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.516
+!MESSAGE Boot LS startup time from start to initialized: 2246ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.552
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.dfiRSAhMisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.552
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.553
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.553
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.554
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.554
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.555
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.dfiRSAhM => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.563
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.575
+!MESSAGE classpath=75 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.576
+!MESSAGE buffering callback sts4.classpath.dfiRSAhM NoDI false 75
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.576
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.581
+!MESSAGE classpath=75 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.581
+!MESSAGE buffering callback sts4.classpath.dfiRSAhM YesDI false 75
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.582
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.583
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.584
+!MESSAGE buffering callback sts4.classpath.dfiRSAhM demo false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.584
+!MESSAGE executing callback sts4.classpath.dfiRSAhM 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 15:01:27.618
+!MESSAGE executing callback sts4.classpath.dfiRSAhM SUCCESS [終了しました]
