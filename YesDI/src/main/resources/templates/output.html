@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<!-- 下記で"thymleaf"を宣言 -->
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>結果画面</title>
+</head>
+<body>
+	<h1>NoDIパターン</h1>
+	<!-- "th"タグもthymleaf -->
+	<!-- htmlのタグ出ないためデザインを崩さない! -->
+	<p>
+		社員No：<span th:text="${number}">100</span>
+	</p>
+	<p>
+		<!-- thymeleafのプログラミンが反映されない時は"ダミー太郎"が出力 -->
+		<!-- thymeleafが反映された時は${name}を出力←controllerで宣言 -->
+		社員名：<span th:text="${name}">ダミー太郎</span>
+	</p>
+	
+	<!-- 下記の<a>は"@{input}"で/inputへの遷移を指示 -->
+	<a href="index.html" th:href="@{input}">入力画面へ</a>
+</body>
+</html>

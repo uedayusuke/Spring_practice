@@ -5452,3 +5452,60 @@ java.lang.Exception
 
 !ENTRY org.eclipse.ui 2 2 2020-09-25 14:45:52.013
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:27.541
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:27.544
+!MESSAGE classpath=6 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:27.544
+!MESSAGE buffering callback sts4.classpath.BtRAuBhx YesDI false 6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:27.545
+!MESSAGE executing callback sts4.classpath.BtRAuBhx 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:27.548
+!MESSAGE executing callback sts4.classpath.BtRAuBhx SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:29.239
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:29.239
+!MESSAGE classpath=6 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:29.240
+!MESSAGE buffering callback sts4.classpath.BtRAuBhx YesDI false 6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:29.240
+!MESSAGE executing callback sts4.classpath.BtRAuBhx 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:29.244
+!MESSAGE executing callback sts4.classpath.BtRAuBhx SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:29.807
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:29.809
+!MESSAGE classpath=75 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:29.811
+!MESSAGE buffering callback sts4.classpath.BtRAuBhx YesDI false 75
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:29.811
+!MESSAGE executing callback sts4.classpath.BtRAuBhx 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:29.816
+!MESSAGE executing callback sts4.classpath.BtRAuBhx SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:52.640
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.BtRAuBhx
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:52.642
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.BtRAuBhx
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:52.642
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-25 14:58:52.643
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.BtRAuBhx => OK
