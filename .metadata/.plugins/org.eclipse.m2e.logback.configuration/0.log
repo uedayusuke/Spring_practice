@@ -985,3 +985,8 @@ java.io.IOException: Invalid argument
 2020-09-26 19:56:36,424 [Worker-80: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2020-09-26 19:56:36,425 [Worker-80: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-26 19:56:36,425 [Worker-80: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/uedayuusuke/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/YesDI/src/test/resources
+2020-09-26 19:59:34,283 [Worker-88: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-26 19:59:34,283 [Worker-88: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-26 19:59:34,284 [Worker-88: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-09-26 19:59:34,285 [Worker-88: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-26 19:59:34,285 [Worker-88: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/uedayuusuke/Documents/workspace-spring-tool-suite-4-4.8.0.RELEASE/YesDI/src/test/resources

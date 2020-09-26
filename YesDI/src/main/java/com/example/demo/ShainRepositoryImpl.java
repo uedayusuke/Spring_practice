@@ -2,6 +2,7 @@ package com.example.demo;
 
 import org.springframework.stereotype.Repository;
 
+// "@Repository"でRepositoryを宣言し、Bean化
 @Repository
 public class ShainRepositoryImpl implements ShainRepository {
 	@Override
