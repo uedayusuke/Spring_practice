@@ -2,7 +2,7 @@ package com.example.demo;
 
 import org.springframework.stereotype.Service;
 
-// "@Service"でserviceを宣言
+// "@Service"でserviceを宣言し、Bean化
 @Service
 public class ShainServiceImpl implements ShainService {
 
