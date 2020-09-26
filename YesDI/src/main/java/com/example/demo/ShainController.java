@@ -7,9 +7,18 @@ import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-// "@Controller"でcontrollerを宣言
+// "@Controller"でcontrollerを宣言し、Bean化
 @Controller
 public class ShainController {
+	
+	// shainServiceを定義
+	private final ShainService shainService;
+
+	//ShainServiceをDI化
+	public ShainController(ShainService shainService) {
+	this.shainService = shainService;
+	}
+
 	
 	// ShainFormクラスを呼び出して、初期化して使うという指示
 	// "@RequestMapping"よりも先に実行される
@@ -34,7 +43,9 @@ public class ShainController {
 		}
 
 		String number = shainForm.getNumber();
-		String name = "コントローラー太郎";
+		// String name = "コントローラー太郎";
+		// ↓DI化したことによって、別クラスのメソッドを使用できる
+		String name = shainService.findByNo(number);
 		model.addAttribute("number", number);
 		model.addAttribute("name", name);
 		return "output.html";
