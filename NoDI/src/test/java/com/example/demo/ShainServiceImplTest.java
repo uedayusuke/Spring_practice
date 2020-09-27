@@ -20,6 +20,7 @@ public class ShainServiceImplTest {
 	public void findByNoTest() throws Exception {
 		// shainRepositoryをモックにして、findByNoが機能するか？のテスト
 		// shainRepositoryのselectByNoに"100"が入った時、"佐藤"が帰ってくるように定義
+		// 9/27 テストエラー 原因追及中
 		when(shainRepository.selectByNo("100")).thenReturn("佐藤");
 		ShainService shainService = new ShainServiceImpl();
 		String employee = shainService.findByNo("100");
