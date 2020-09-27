@@ -32,7 +32,7 @@ public class WebTest {
 	@Test
 	public void isStatusTest() throws Exception {
 		// /inputでアクセスして、statusがOKになるかのテスト
-		mockMvc.perform(get("/xxx")).andExpect(status().isNotFound());
+		mockMvc.perform(get("/input")).andExpect(status().isOk());
 	}
 
 }
