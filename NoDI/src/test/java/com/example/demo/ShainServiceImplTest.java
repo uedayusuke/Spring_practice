@@ -21,10 +21,10 @@ public class ShainServiceImplTest {
 		// shainRepositoryをモックにして、findByNoが機能するか？のテスト
 		// shainRepositoryのselectByNoに"100"が入った時、"佐藤"が帰ってくるように定義
 		// 9/27 テストエラー 原因追及中
-		when(shainRepository.selectByNo("100")).thenReturn("佐藤");
+		when(shainRepository.selectByNo("101")).thenReturn("鈴木");
 		ShainService shainService = new ShainServiceImpl();
-		String employee = shainService.findByNo("100");
-		assertThat(employee, is("佐藤"));
+		String employee = shainService.findByNo("101");
+		assertThat(employee, is("鈴木"));
 	}
 
 }
