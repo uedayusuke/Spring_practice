@@ -7941,3 +7941,15 @@ java.lang.Exception
 
 !ENTRY org.eclipse.ui 2 2 2020-09-28 18:49:19.909
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-28 20:31:36.744
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.IXmwrbyL
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-28 20:31:36.748
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.IXmwrbyL
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-28 20:31:36.749
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-28 20:31:36.749
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.IXmwrbyL => OK
