@@ -11027,3 +11027,33 @@ java.lang.Exception
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 15:19:52.707
 !MESSAGE executing callback sts4.classpath.OCBGnobw SUCCESS [終了しました]
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-05 15:25:09.987
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-05 15:25:09.988
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-05 15:25:09.988
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-05 15:25:09.988
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-05 15:25:09.989
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-05 15:25:09.990
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-05 15:25:09.990
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-05 15:25:09.991
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-05 15:25:09.991
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-11-05 15:25:09.993
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
